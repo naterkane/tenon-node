@@ -2,6 +2,7 @@
   "name": "tenon-node",
   "version": "0.4.0",
   "main": "lib/tenon-node.js",
+  "bin" : { "tenon" : "./cli.js" },
   "description": "Node.js wrapper for the Tenon.io API",
   "homepage": "https://github.com/poorgeek/tenon-node",
   "bugs": "https://github.com/poorgeek/tenon-node/issues",
